@@ -23,4 +23,4 @@ jobs:
         run: pip install pytest
 
       - name: Run tests
-        run: pytest test_app.py
+        run: pytest app_test.py
